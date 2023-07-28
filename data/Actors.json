@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Bromden","characterIndex":0,"characterName":"Bromden_Walking","classId":1,"equips":[0,0,0,2,0],"faceIndex":0,"faceName":"Bromden","traits":[],"initialLevel":1,"maxLevel":3,"name":"Bromden","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"A_McMurphy","characterIndex":0,"characterName":"McMurphy_Walking","classId":1,"equips":[0,0,0,2,0],"faceIndex":0,"faceName":"McMurphy","traits":[],"initialLevel":1,"maxLevel":99,"name":"McMurphy","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Ratched_Walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Ratched","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ratched","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
